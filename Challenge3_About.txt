@@ -1,0 +1,6 @@
+	This is a balanceing problem - 
+You are provided x which will be on the left scale: so X can be any positive int up to 1000000000
+
+Weights provided: weights are provided with powers of three so { 1, 3, 9, 27, 243... etc
+
+Using these weight, you balance out the scale. 
