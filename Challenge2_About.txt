@@ -1,0 +1,3 @@
+The 2nd challenge to foobar was a challege to count all the distinct numbers in a set. 
+Palindromes however did not count as distinct.
+So a Set of {"abc", "bca" , " cba"} would return 2 and so on and so forth. 
